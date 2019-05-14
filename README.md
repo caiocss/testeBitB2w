@@ -1,2 +1,2 @@
 # testeBitB2w
-Resposta da task2 do teste
+Resposta teste task1 e task2
